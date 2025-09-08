@@ -1,0 +1,8 @@
+apache-airflow-providers-amazon==9.*
+boto3
+great-expectations==0.18.*
+pandas
+
+# Para fuzzy matching
+fuzzywuzzy
+python-Levenshtein
