@@ -1,0 +1,3 @@
+[profile lab-temp]
+region = us-east-1
+output = json
